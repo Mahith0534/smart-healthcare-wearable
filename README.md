@@ -67,7 +67,7 @@ smart-healthcare-wearable/
 ### 1. 📅 Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/smart-healthcare-wearable.git
+https://github.com/Mahith0534/smart-healthcare-wearable.git
 cd smart-healthcare-wearable
 ```
 
@@ -130,14 +130,3 @@ All health data is stored in the `vitals` collection. You can view it in your Fi
 - SMS/WhatsApp alerts via Twilio
 - Historical data trends & analytics
 - Login/authentication support
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repo and submit PRs!
-
----
-
-**Built with ❤️ for health + tech innovation**
-
